@@ -1,0 +1,2 @@
+0 sunlit
+1 in earth's shadow

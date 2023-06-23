@@ -1,0 +1,3 @@
+Images used to get the example result
+Set 2 in points.py
+CDOSR_062010_0635.jpg and CDOSR_062022_0653.jpg in ISS_speed.py
